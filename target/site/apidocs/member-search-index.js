@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.mkyong.common","c":"HelloBean","l":"getName()"},{"p":"com.mkyong.common","c":"HelloBean","l":"HelloBean()","u":"%3Cinit%3E()"},{"p":"com.mkyong.common","c":"HelloBean","l":"setName(String)","u":"setName(java.lang.String)"}];updateSearchResults();
