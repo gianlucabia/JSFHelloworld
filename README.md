@@ -8,8 +8,6 @@ Java Server Faces - Hello world web application
 3. Run command ```mvn tomcat7:deploy``` in the same path;
 4. Find your webapp on ```localhost:8080/JSFHelloworld```.
 
-Enjoy :)
-
 ## Acknowledgement
 
 Made with ❤ by GB.
